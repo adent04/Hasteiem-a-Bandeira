@@ -1,6 +1,8 @@
 # Hasteiem-a-Bandeira
 Um apanhado de links para ajduar a vocês a se localizarem nesse imenso oceano de informações que é a internet
 
+<img src="_e48f994a-73ad-4e86-a3c2-f99c6a751a51.jpeg" width="50%">
+
 ## Antes de tudo…
 
 Para se navegar com segurança, é necessário ter as ferramentas certas em seu barco:
