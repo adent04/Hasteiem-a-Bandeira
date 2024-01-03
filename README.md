@@ -18,7 +18,7 @@ Para se navegar com segurança, é necessário ter as ferramentas certas em seu 
 É sabido que já temos comunidades e threads muito bem construídos que dão todo o apoio necessário para você se localizar, e aqui estão eles:
 
 - [📜 ➜ Megathread (rentry.org)](https://rentry.org/megathread) - r/Piracy
-- [FMHY](https://www.fmhy.ml/) - r/****FREEMEDIAHECKYEAH****
+- [FMHY](https://fmhy.net/) - r/****FREEMEDIAHECKYEAH****
 - [Champagne Piracy Wiki](https://champagne.pages.dev/)
 - Outros :
     - [BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)
